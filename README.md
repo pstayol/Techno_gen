@@ -1,5 +1,5 @@
 # Unconditional Techno Music Mel Spectogram Generation
-<font size=4>**Dataset**</font>
+<font size=6>**Dataset**</font> <br /> 
 Youtube Playlist <br /> 
 ---> 1) https://www.youtube.com/playlist?list=PLY9AQ6MtYEKJTQiVXuSqXDX-JuU9c8NaD <br /> 
                  ---> 2) https://www.youtube.com/watch?v=bfFURz_zX1Q&list=PLI8lxsZqZNEkP-0n6fb2BCAn7u2FQIMXh <br /> 
@@ -9,7 +9,7 @@ Youtube Playlist <br />
                  ---> 6) https://www.youtube.com/watch?v=FM31XCvwnAY&list=PLJpU8I18pJwE7ZKauBl44927SlhfRKTdw <br /> 
 
 
-<font size=4>**Files**</font>  <br /> 
+<font size=6>**Repo Files**</font>  <br /> 
 raw_data    ---> Gather Techno songs from Youtube
 
 seg_spect   ---> 5s Song Segmentation and Mel Spectogram Conversion
