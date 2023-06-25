@@ -22,4 +22,5 @@ wcgan_wclip ---> WGAN training with weight clipping
 
 wcgan_gp    ---> WGAN training with gradient penalty
 
+__infer     ---> inferences for each model we trained
 
