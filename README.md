@@ -1,3 +1,2 @@
-# Techno_gen
-Unconditional Techno Music Mel Spectogram Generation
+# Unconditional Techno Music Mel Spectogram Generation
 
